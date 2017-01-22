@@ -1,0 +1,4 @@
+*.pyc
+migrations/
+.idea/
+db.sqlite3
